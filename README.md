@@ -1,10 +1,9 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Shofiyah Mardhiyah  
+**NRP**: 05111840000106  
+**Judul TA**: Perbandingan Peramalan Menggunakan Metode ARIMA Berbasis Prosedur dan ARIMA Otomatis Berbasis Akurasi  
+**Dosen Pembimbing**: Agus Budi Raharjo S.Kom, M.Kom., Ph.D.  
 
 ---
 
@@ -19,18 +18,19 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 *Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
 
 ## 🛠 Panduan Instalasi & Menjalankan Software  
-
+===========================WIP=============================
 ### Prasyarat  
 - Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+  - Python 3.11+
+  - pandas
+  - numpy
+  - statsmodel
+  - matplotlib
 
 ### Langkah-langkah  
 1. **Clone Repository**  
    ```bash
-   git clone https://github.com/Informatics-ITS/TA.git
+   git clone https://github.com/Informatics-ITS/ta-Shofi52.git
    ```
 2. **Instalasi Dependensi**
    ```bash
@@ -71,5 +71,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
+- Penulis: [shofiyahmardhiyah2@gmail.com]
 - Pembimbing Utama: [email@pembimbing]
